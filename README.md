@@ -1,4 +1,4 @@
-# HandGestureRecignition
+# HandGestureRecognition
 ### This project is a hand gesture recognition system that identifies four specific hand gestures and provides an option to insert custom images for gesture analysis. It uses computer vision techniques to recognize gestures in real-time or from uploaded images.
 
 ## Features
